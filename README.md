@@ -5,7 +5,7 @@ Removed repeated CSS styles and combined them to style multiple classes.
 
 
 Live link
-https://drewk2629.github.io/horiseon-website/! 
+https://drewk2629.github.io/horiseon-website/
 
 
 Original HTML contained no semantic HTML
